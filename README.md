@@ -1,5 +1,5 @@
 # blockgamesevidence
-This is a repo to prove the evidence of my contribution to all Team Blockchamp projects in the Blockgames Game Phase. 
+This is a repo to prove the evidence of my contribution to all tasks in the Blockgames Game Phase. 
 
 ## Task 1
 Commit URLs: https://github.com/Blockchamp/Block-Fe/commit/dfad467160dadbbfd30c046d231566a5cb5d87c5; 
